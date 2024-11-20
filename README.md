@@ -1,3 +1,3 @@
 # CompetitiveCoding
 
-Documenting my competitive coding experience.
+Documenting my competitive coding problems.
